@@ -1,4 +1,6 @@
 # Conways-Game-of-Life
+
+<img src="https://github.com/sdswart/Conways-Game-of-Life/blob/master/Conway.JPG" alt="Conway">
 Graphical implementation of the game of life with tkinter
 
 Requires Python 3+ with numpy, tkinter, math and scipy
