@@ -1,7 +1,5 @@
 """
-Created on Fri Aug 18 10:36:22 2017
-
-@author: SSwart
+@author: Stephen
 """
 #%% Imports
 from tkinter import *
